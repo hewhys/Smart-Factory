@@ -1,2 +1,3 @@
 # Smart Factory
-## æ¯•ä¸šè®¾è®¡ç¨‹åºï¼Œç”¨äºæ‰‹æœºå’Œç¡¬ä»¶çš„äº¤äº’
+## ±ÏÒµÉè¼Æ³ÌĞò£¬ÓÃÓÚÊÖ»úºÍÓ²¼şµÄ½»»¥My design and paper for graduation.Coded by java language.
+²âÊÔgithubµÄÊ¹ÓÃ
